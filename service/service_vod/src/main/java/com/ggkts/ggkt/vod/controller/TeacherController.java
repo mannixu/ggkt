@@ -25,7 +25,7 @@ import java.util.List;
  * @since 2022-10-23
  */
 @RestController
-@RequestMapping("/vod/teacher")
+@RequestMapping("/admin/vod/teacher")
 @Api("讲师相关接口")
 @CrossOrigin
 public class TeacherController {
